@@ -1,0 +1,21 @@
+[    
+      {
+        "page": {
+          "pageid": 21721040,
+          "ns": 0,
+          "title": "Stack Overflow",
+          "extract": "Some interesting text about Stack Overflow",
+          "endpoint": "http://example-bucket.s3-website.us-west-2.amazonaws.com/docs/doc2-PREPROD-copy-03122024.html"
+        }
+      },
+      {
+        "page": {
+          "pageid": 21721041,
+          "ns": 0,
+          "title": "Baeldung",
+          "extract": "A great place to learn about Java",
+          "endpoint": "http://example-bucket.s3-website.us-east-2.amazonaws.com/docs/doc1-DEV-main-04102024.html"
+        }
+      }
+]
+
